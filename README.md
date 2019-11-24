@@ -1,6 +1,7 @@
 # Minecraft Bot
 
 Simple bot for Checking status of minecraft server
+-This bot will be updated to include more features and this is the base for Rays Minecraft Bot
 
 ## Installation
 
